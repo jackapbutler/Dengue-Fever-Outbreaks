@@ -8,6 +8,6 @@ The data was cleaned in excel and new feature variables such as "day of week" we
 
 In hindsight I could also have used multivariate time series analysis but I wanted to gain experience with keras and scikit-learn.
 
-# Frequency per year
+# Frequency by year and city
 ![Image of framework](https://github.com/jackapbutler/Dengue-Fever-Outbreaks/blob/master/frequency.PNG)
 
