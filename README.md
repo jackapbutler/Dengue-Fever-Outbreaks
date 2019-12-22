@@ -11,5 +11,3 @@ In hindsight I could also have used multivariate time series analysis but I want
 # Frequency per year
 ![Image of framework](https://github.com/jackapbutler/Dengue-Fever-Outbreaks/blob/master/frequency.PNG)
 
-# Frequency per month
-![Image of framework](https://github.com/jackapbutler/Dengue-Fever-Outbreaks/blob/master/frequencymonth.PNG)
