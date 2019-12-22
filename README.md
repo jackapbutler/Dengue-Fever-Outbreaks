@@ -6,3 +6,6 @@ Dengue (pronounced DENgee) fever is a painful, debilitating mosquito-borne disea
 
 # Frequency per year
 ![Image of framework](https://github.com/jackapbutler/Dengue-Fever-Outbreaks/blob/master/frequency.PNG)
+
+# Frequency per month
+![Image of framework](https://github.com/jackapbutler/Dengue-Fever-Outbreaks/blob/master/frequencymonth.PNG)
