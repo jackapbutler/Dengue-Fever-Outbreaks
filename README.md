@@ -6,7 +6,7 @@ Dengue (pronounced DENgee) fever is a painful, debilitating mosquito-borne disea
 
 The data was cleaned in excel and new feature variables such as "day of week" were extracted. I approached the problem as a regression problem. I used scikit-learn's regressors in the "DengAi Sklearn Models" jupyter notebook. I also tried a neural network solution with Keras in the "DengAi Neural Networks" jupyter notebook. My final submissions placed me in the top 71st percentile of entries.
 
-In hindsight I could also have used multivariate time series analysis but I wanted to gain experience with keras and scikit-learn.
+In hindsight I could have also tried multivariate time series analysis.
 
 # Frequency by year and city
 ![Image of framework](https://github.com/jackapbutler/Dengue-Fever-Outbreaks/blob/master/frequency.PNG)
